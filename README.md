@@ -71,3 +71,5 @@ Most C files are licensed under GNU General Public License (GPL), version 2.
 [driver-downloads]: http://support.dlink.com.au/Download/download.aspx?product=DWA-131
 [direct-download]: ftp://files.dlink.com.au/products/DWA-131/REV_E/Drivers/DWA-131_Linux_driver_v4.3.1.1.zip
 [initial-commit]: https://github.com/Mange/rtl8192eu-linux-driver/commit/1387cf623d54bc2caec533e72ee18ef3b6a1db29
+
+https://github.com/Mange/rtl8192eu-linux-driver
